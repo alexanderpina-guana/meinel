@@ -1,0 +1,12 @@
+body{
+    background-image: url(aurora.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+img {
+    height: 290px;
+    width: 290px;
+}
