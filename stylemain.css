@@ -6,7 +6,40 @@ body{
     background-size: cover;
 }
 
+h1{
+  background-color: ivory;
+  text-align: center;
+  font-size: 100px;
+  height: 600px;
+  width: 600px;
+  margin-top: 50px;
+  margin-bottom: 100px;
+  margin-left: 430px;
+  margin-right: 430px;
+  border:20px solid khaki;
+  border-radius: 35px;
+
+}
+
+h2{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+p{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+
 img {
     height: 290px;
     width: 290px;
+}
+
+footer{
+    background-color: black;
+    color: white;
 }
